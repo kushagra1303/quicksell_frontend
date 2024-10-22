@@ -45,32 +45,25 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
 
 ### Preview
 
 ![Desktop-1](https://github.com/user-attachments/assets/f8aa1360-0a11-4364-baaa-2532c687ec17)
+
+State based on display. 
+Grouping by user is selected and ordering is selected by priority. 
+
+![Desktop-2](https://github.com/user-attachments/assets/a7de6a37-8c17-48ff-998b-d602f3e5a857)
+
+State based on display. 
+Both grouping and ordering is selected by priority. 
+
+![Mobile-1](https://github.com/user-attachments/assets/a1ba1528-36c1-4b30-b736-03214e74c783)
+
+Created a responsive design through which you can use this from mobile and avail all functionalities. 
+
+Additionally, we have fetched data from given API that was already provided.
+
+
+
 
