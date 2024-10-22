@@ -48,6 +48,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Preview
 
+Build a dynamic Kanban board using React that seamlessly integrates with Quicksell's API. This app allows users to organize tickets by status, user, or priority with ease, offering flexibility to view and manage tasks as needed. Tickets can be sorted by priority level or title, with priorities ranging from Urgent (4) to No Priority (0), ensuring users can quickly focus on what matters most.
+
 ![Desktop-1](https://github.com/user-attachments/assets/f8aa1360-0a11-4364-baaa-2532c687ec17)
 
 State based on display. 
